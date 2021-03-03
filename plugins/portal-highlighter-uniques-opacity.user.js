@@ -2,8 +2,8 @@
 // @id             iitc-plugin-portal-highlighter-uniques-opacity@xificurk
 // @name           IITC plugin: Highlight unique visits/captures using opacity
 // @category       Highlighter
-// @version        0.1.1.20210303
-// @description    [release-20210303] Use stroke and fill opacity to denote player's unique visits and captures. Requires uniques plugin.
+// @version        0.1.1.20181030
+// @description    [release-20181030] Use stroke and fill opacity to denote player's unique visits and captures. Requires uniques plugin.
 // @updateURL      https://github.com/charlielok/iitc/raw/master/plugins/portal-highlighter-uniques-opacity.user.js.js
 // @downloadURL    https://github.com/charlielok/iitc/raw/master/plugins/portal-highlighter-uniques-opacity.user.js.js
 // @namespace      https://github.com/charlielok/iitc
@@ -21,7 +21,7 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 //PLUGIN AUTHORS: writing a plugin outside of the IITC build environment? if so, delete these lines!!
 //(leaving them in place might break the 'About IITC' page or break update checks)
 plugin_info.buildName = 'xificurk';
-plugin_info.dateTimeVersion = '20210303';
+plugin_info.dateTimeVersion = '20181030';
 plugin_info.pluginId = 'portal-highlighter-uniques-opacity';
 //END PLUGIN AUTHORS NOTE
 
